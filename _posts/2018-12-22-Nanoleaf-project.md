@@ -15,6 +15,6 @@ Pretty good connected devices that can add some atmosphere to your rooms, down s
 
 I've came across this thing link [thing:3230905](https://www.thingiverse.com/thing:3230905) and I though it's a pretty good idea for Xmas!
 
-I had some Led and NodeMCU available and decided to take onboard on the project. I'm still having some pannel that currently printing ( I'm doing a 20 triangle panel size )
+I had some Led and **NodeMCU** available and decided to take onboard on the project. I'm still having some pannel that currently printing ( I'm doing a 20 triangle panel size )
 
 _Stay tunned on the next update!_
