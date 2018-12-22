@@ -3,6 +3,7 @@ layout: post
 title: NanoLeaf Project
 subtitle: ... oops clone project
 image: /img/nano.jpeg
+tags: [Project,3d printing,electronics]
 ---
 
 {: .box-note}
