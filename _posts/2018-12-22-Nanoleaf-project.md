@@ -1,6 +1,7 @@
 ---
 layout: post
-title: NanoLeaf clone Project
+title: NanoLeaf Project
+subtitle: ... oops clone project
 image: /img/nano.jpeg
 ---
 
