@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jekyll Blog creation
-image: /img/yt.png
+image: /img/jekyll.png
 tags: [How to, Tech]
 ---
 
