@@ -15,4 +15,6 @@ I'm also launching this blog and resuming my [YouTube channel](https://www.youtu
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [last video](https://www.youtube.com/watch?v=avAvKLBAA-U) and it will answer **all** your questions.
+To be honest, I'm having some trouble remembering right now, so why don't you just watch [last video](https://www.youtube.com/watch?v=avAvKLBAA-U) and drop me **your** question there?
+
+You might be a Instagram user, if so why not following me: [https://instagram.com/weekendmake](WeekendMake)
