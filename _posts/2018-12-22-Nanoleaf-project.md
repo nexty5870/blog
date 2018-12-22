@@ -4,9 +4,7 @@ title: NanoLeaf clone Project
 image: /img/nano.jpeg
 ---
 
-The Nanoleaf clone project would be the first project to be on the blog,
-
-if you don't know what the Nanoleaf is, I'll recommand you clicking on that [link](https://nanoleaf.me/en/)
+The Nanoleaf clone project would be the first project to be on the blog,if you don't know what the Nanoleaf is, I'll recommand you clicking on that [link](https://nanoleaf.me/en/)
 
 Pretty good connected devices that can add some atmosphere to your rooms, down side is that it's fairly expensive ( the design is worth it )
 
