@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First post!
-image: /img/first_72.png
+image: /img/hello_world.jpeg
 tags: [News]
 ---
 
