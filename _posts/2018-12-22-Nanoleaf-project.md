@@ -31,6 +31,6 @@ You might have seen the picture, the most time consuming in this project ( **but
 
 ## Print part
 
-Here is the link to the thing used in this project [thing:3230905](https://www.thingiverse.com/) - Each triangle is taking approx 3h to print on my various printer (MK3 / JAurora / Ender 3 & the CR20) printed at .2mm layer high, 30% infill, no support requiered and pretty easy print
+Here is the link to the thing used in this project [thing:3230905](https://www.thingiverse.com/) - Each triangle is taking approx 3h to print on my various printer (MK3 / JAurora / Ender 3 & the CR20) printed at .2mm layer high, 30% infill, no support required and pretty easy print
 
 _Stay tunned on the next update!_
