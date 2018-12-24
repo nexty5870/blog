@@ -122,7 +122,7 @@ url-pretty: "Weekend-Make"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
- disqus: "wkmake"
+# disqus: "wkmake"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
