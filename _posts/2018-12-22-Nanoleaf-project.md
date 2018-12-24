@@ -28,9 +28,20 @@ You might have seen the picture, the most time consuming in this project ( **but
 - [Amazon - WS2812B5 led 5m 60leds/m](https://www.amazon.de/gp/product/B01CDTEJBG/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
 - [Aliexpress - DC Male/Female plug](https://www.aliexpress.com/item/5-5mm-x-2-1mm-Female-Male-DC-Power-Plug-Adapter-for-5050-3528-5060-Single/32802998971.html?spm=2114.search0104.3.45.2adfead76GjXD3&ws_ab_test=searchweb0_0,searchweb201602_5_10065_10068_319_317_10696_5729415_453_10084_454_10083_10618_10304_10307_10820_10301_10821_538_537_536_5730515_10843_10059_10884_10887_100031_321_322_10103-5729415,searchweb201603_51,ppcSwitch_0&algo_expid=4af2d5a2-a185-42e1-8f6d-66ec90b2bbe3-6&algo_pvid=4af2d5a2-a185-42e1-8f6d-66ec90b2bbe3)
 - [Aliexpress - 5V 3A AC/DC Adaptor](https://www.aliexpress.com/item/1pcs-5V-3A-DC5-5mm-AC-DC-Adaptor-5V3A-3000mA-Power-Adapter-Supply-Charger-For-Android/32866488177.html?spm=2114.search0104.3.31.370f5463yDsgA3&ws_ab_test=searchweb0_0,searchweb201602_5_10065_10068_319_317_10696_5729415_453_10084_454_10083_10618_10304_10307_10820_10301_10821_538_537_536_5730515_10843_10059_10884_10887_100031_321_322_10103,searchweb201603_51,ppcSwitch_0&algo_expid=66687abb-4184-418d-a92f-155527600232-4&algo_pvid=66687abb-4184-418d-a92f-155527600232)
+- M5 screw ( 8mm looks perfect )
 
 ## Print part
 
 Here is the link to the thing used in this project [thing:3230905](https://www.thingiverse.com/) - Each triangle is taking approx 3h to print on my various printer (MK3 / JAurora / Ender 3 & the CR20) printed at .2mm layer high, 30% infill, no support required and pretty easy print
+
+## Build
+
+Here is some picture of the build, the video will be released once the project is fully done
+
+I wanted to keep the build as clean as possible with the flexibility that Nanoleaf can offer by adding more triangle,
+
+I wanted my build to be a 20 triangles meaning a total of 120 leds and 360 Pin header the 3A power supply should be sufficient for project, below the picture of the preparation
+
+![Nanoeleaf clone preparation](https://i.gyazo.com/7f4f4963aee488ab59810f4c382cd243.jpg)
 
 _Stay tunned on the next update!_
