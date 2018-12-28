@@ -10,6 +10,8 @@ tags: [Project, Arduino]
 
 You might have seen one of my Instagram post lately [Here](https://www.instagram.com/p/Br6AJa2BJ0l/) but I've basically started working on a Remote for a future robot's. Not sure where this will go but I'm aiming to start a YouTube Series where I build from scratch a robot, inspired by James Bruton and his opendog series ( Im not by all means at this level don't get too excited ! 🤩 )
 
+![Arduino Joystick](https://i.gyazo.com/3439ab32b697d79bc54a03e1dca6729d.png)
+
 ## Where am at ?
 
 By no means I can ( yet ) write a piece of Arduino code by myself, however if the base code is there, I can tweak most of the code for my need, and so far that feel good. I never used the servo library before, however I've manage to setup a reset function using the switch on the joystick, without reading any information online, and manage to print the servo PWM on the serial. Doesn't seem a lot to you but that the begining in terms of code, I'd like in future to be able to write code myself and feel comfortable showing/explaining that on my [YouTbe Channel](https://www.youtube.com/channel/UCM8iZUKxIHGmAaRcQ_aTYfA)
