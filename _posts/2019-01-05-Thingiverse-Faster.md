@@ -25,7 +25,7 @@ All you have to do once installed, is hit to [Thingiverse](https://www.thingiver
 
 ![Ghostery settings](https://i.gyazo.com/059670fc4c23d7e447d508b67c0997e1.png)
 
-and Tadaaaaa, reload thingiverse and you will probably notice some improvement.
+**and Tadaaaaa, reload thingiverse and you will probably notice some improvement.**
 
 ![Thingiverse improvement](https://i.gyazo.com/2b8fcce4246f9462339d4701c565fa61.gif)
 
