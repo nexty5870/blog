@@ -27,6 +27,8 @@ All you have to do once installed, is hit to [Thingiverse](https://www.thingiver
 
 and Tadaaaaa, reload thingiverse and you will probably notice some improvement.
 
+![Thingiverse improvement](https://i.gyazo.com/2b8fcce4246f9462339d4701c565fa61.gif)
+
 ## Source
 
 I've seen this on a Redditt comment late last night - I apologize I cannot remember the User who posted about New-Relic backend, but it's worth mentionning, thanks Mr.!
