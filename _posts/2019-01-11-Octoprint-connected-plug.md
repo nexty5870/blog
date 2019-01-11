@@ -3,7 +3,7 @@ layout: post
 title: Smart Plug and Octoprint!
 subtitle: ... Get your printer smarter!
 image: /img/smart.jpg
-tags: [Project,3d printing,electronics]
+tags: [Project,3d printing,electronics,How To]
 ---
 
 ## Intro
