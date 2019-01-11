@@ -78,4 +78,4 @@ Do not forget to save/Update your profile and and **Voila** 🤩
 
 This is a good addition to Octoprint in effort to make your setup more efficient and silent, why would the printer run all night if you're print finish at 2AM and you're sleeping?
 
-If you liked this article, please leave a comment down below it boost up the motivation to continue - I would feel less lonely here 😀
+If you liked this article, please leave a comment down below it boost up the motivation to continue - I would feel less lonely here.. 😀
