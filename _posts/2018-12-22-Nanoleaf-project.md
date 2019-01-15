@@ -6,8 +6,7 @@ image: /img/nano.jpeg
 tags: [Project,3d printing,electronics]
 ---
 
-{: .box-note}
-**Note:** This project is undergoing.
+[![](http://img.youtube.com/vi/PALI4ijahv4/0.jpg)](http://www.youtube.com/watch?v=PALI4ijahv4 "Nanoleaf clone")
 
 ## Intro
 
@@ -34,6 +33,11 @@ You might have seen the picture, the most time consuming in this project ( **but
 
 Here is the link to the thing used in this project [thing:3230905](https://www.thingiverse.com/) - Each triangle is taking approx 3h to print on my various printer (MK3 / JAurora / Ender 3 & the CR20) printed at .2mm layer high, 30% infill, no support required and pretty easy print
 
+Here is the link to all the thingiverse
+
+[Nanoleaf replica](https://www.thingiverse.com/thing:3230905)
+[Nanoleaf canvas cutting](https://www.thingiverse.com/thing:3358768)
+
 ## Build
 
 Here is some picture of the build, the video will be released once the project is fully done
@@ -44,4 +48,9 @@ I wanted my build to be a 20 triangles meaning a total of 120 leds and 360 Pin h
 
 ![Nanoeleaf clone preparation](https://i.gyazo.com/7f4f4963aee488ab59810f4c382cd243.jpg)
 
-_Stay tunned on the next update!_
+## Code
+
+Here is the code, please remember to change your SSID and password in order to have it working, and the D4 is being used as pinout - if you have to change it for what ever reason do not forget to update the code, D4 is next to the GND and 5V which make it easier to hook up everything.
+
+
+if you feel it useful please leave a little comment down below - it's always good to see people commenting :)
