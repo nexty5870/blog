@@ -50,7 +50,7 @@ I wanted my build to be a 20 triangles meaning a total of 120 leds and 360 Pin h
 
 ## Code
 
-Here is the code, please remember to change your SSID and password in order to have it working, and the D4 is being used as pinout - if you have to change it for what ever reason do not forget to update the code, D4 is next to the GND and 5V which make it easier to hook up everything.
+[Here is the code link](https://github.com/nexty5870/nanoleafreplica), please remember to change your SSID and password in order to have it working, and the D4 is being used as pinout - if you have to change it for what ever reason do not forget to update the code, D4 is next to the GND and 5V which make it easier to hook up everything. This code is based on the [WS2812FX Library](https://github.com/kitesurfer1404/WS2812FX) make sure to install the library
 
 ```
 /*
